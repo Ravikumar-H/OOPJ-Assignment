@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - **Instructor**: Guidance and support for the OOPJ assignment.
 - **Resources**: Java documentation and online tutorials
-- https://copyassignment.com/atm-simulator-in-java/
+
 
 ---
 Feel free to explore, use, and modify this project. If you have any questions or suggestions, please open an issue or contact me through the repository.
